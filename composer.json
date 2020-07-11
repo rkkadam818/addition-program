@@ -1,0 +1,17 @@
+{
+    "name": "rkadam01/addition-program",
+    "description": "Addition of multiple numbers. Please pass the space seperated numbers.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "rkadam01",
+            "email": "rkadam01@xento.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"rkadam01\\Addition\\": "src/"}
+    },
+    "require": {}
+}
