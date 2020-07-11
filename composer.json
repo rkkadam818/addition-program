@@ -9,7 +9,7 @@
             "email": "rkadam01@xento.com"
         }
     ],
-    'version':'1.0.0',
+    "version": "1.0.0",
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {"rkadam01\\Addition\\": "src/"}
