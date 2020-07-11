@@ -11,7 +11,7 @@ class Addition
 		if( false == ctype_digit(implode('',$data))){
 			return 'Please enter the valid parameters.';
 		} else {
-			return array_sum($data);
+			return 'The addition of numbers is: ' . array_sum($data);
 		}
 	}
 }
